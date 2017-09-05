@@ -1,2 +1,2 @@
-# BeginnerJavaPrograms
-My first projects written in Java code, written as I learned new topics or explored new ways to program
+#Password_Gen_For_Java
+A simple code I wrote for randomly generating alphanumeric passwords in Java. Critique is welcome. 
